@@ -7,6 +7,17 @@ assignees: ''
 
 ---
 
-As a Admin
-I need the ability to create a product in the catalog
-So that the visitors can find new products in my site
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
